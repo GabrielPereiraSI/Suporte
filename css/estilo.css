@@ -1,0 +1,58 @@
+footer {
+		text-align: center;
+		background: yellow;
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+}
+
+body {
+		background: lightblue;
+	}
+
+
+
+.menu {  
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+		background: lightsteelblue;
+		width: 100%;
+		
+	}
+.n1 {
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+}
+
+
+
+@media (min-width: 500px) and (max-width: 900px) {
+	h1{
+		text-align: center;
+		overflow: hidden;
+
+	}
+	body{
+		text-align: center;
+		background: green;
+
+		}
+	}
+}
+
+.linha1{
+	color: black;
+}
+.linha2{
+	color: yellow;
+}
+.linha3{
+	color: green;
+}
+
+.logo {
+	width: 150px;
+	height: 150px;
+}
